@@ -23,9 +23,9 @@ We are a team of passionate developers focused on backend development and modern
 - 📊 **Data Engineering** - Working with databases and data processing
 - ☁️ **DevOps Practices** - Learning and implementing modern deployment approaches
 
-## 🌟 Our Projects
 
-### Active Student
+<details>
+<summary><h2>🌟 Our Projects</h2></summary>
 
 A gamified platform for College of Communications №54 that allows students to earn points for their activities and exchange them for rewards.
 
@@ -36,6 +36,7 @@ A gamified platform for College of Communications №54 that allows students to 
 - [Vyacheslav Isaev](https://github.com/aivanns)
 - [Lev Kuznetsov](https://github.com/levganster)
 - [Nikita Rtischev](https://github.com/nenertiy)
+</details>
 
 ## 📊 Team Statistics
 
