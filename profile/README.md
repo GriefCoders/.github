@@ -27,7 +27,7 @@ We are a team of passionate developers focused on backend development and modern
 
 ![Team Activity](https://img.shields.io/badge/Active%20Projects-1-blue?style=for-the-badge)
 ![Team Members](https://img.shields.io/badge/Team%20Members-4-green?style=for-the-badge)
-![Technologies](https://img.shields.io/badge/Technologies-20+-orange?style=for-the-badge)
+
 
 ---
 
