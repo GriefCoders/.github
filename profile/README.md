@@ -27,6 +27,8 @@ We are a team of passionate developers focused on backend development and modern
 <details>
 <summary><h2>🌟 Our Projects</h2></summary>
 
+### Active Student
+
 A gamified platform for College of Communications №54 that allows students to earn points for their activities and exchange them for rewards.
 
 🌐 [active-student.ru](https://active-student.ru/)
