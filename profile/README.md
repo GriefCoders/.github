@@ -43,7 +43,7 @@ A gamified platform for College of Communications №54 that allows students to 
 ## 📊 Team Statistics
 
 ![Team Activity](https://img.shields.io/badge/Active%20Projects-1-blue?style=for-the-badge)
-![Team Members](https://img.shields.io/badge/Team%20Members-4-green?style=for-the-badge)
+![Team Members](https://img.shields.io/badge/Team%20Members-5-green?style=for-the-badge)
 
 
 ---
